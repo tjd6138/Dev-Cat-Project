@@ -1,0 +1,547 @@
+/**
+ dex.scss
+ * - Add any styles you want here!
+ */
+/**
+.quotes {
+  font-family: "Open Sans";
+  color: white;
+  text-align: center;
+  margin-top: 5vw;
+  margin-bottom: 20vw;
+  margin-left: 5vw;
+  margin-right: 5vw;
+  font-size: 1vw;
+}
+.quotes2 {
+  font-family: "Open Sans";
+  color: white;
+  text-align: center;
+  font-size: 1vw;
+  margin-top: 5vw;
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
+
+.quotes3 {
+  font-family: "Open Sans";
+  color: white;
+  text-align: center;
+  font-size: 1vw;
+  margin-top: 3.5vw;
+  margin-left: 5vw;
+  margin-right: 5vw;
+}*/
+
+@import url(//fonts.googleapis.com/css?family=Orbitron);
+
+body {
+  background: #000000;
+}
+
+h1 {
+  color: white;
+  font-family: "Orbitron", sans-serif;
+  font-size: 3.75vw;
+  font-style: bold;
+  height: 50%;
+  min-width: 90%;
+  max-wth: 100%;
+  max-height: 100%;
+  min-height: 90%;
+  text-align: center;
+  letter-spacing: 0.15vw;
+  text-shadow: 0.206vw 0.206vw #000291;
+  margin-bottom: 2vw;
+}
+
+.nav {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.nav ul {
+  list-style-type: none;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000291;
+}
+
+.nav li {
+  float: left;
+  font-size: 1.1vw;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.nav a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 0.6vw 5.5vw 0.8vw 5.3vw;
+  text-decoration: none;
+  height: 2vw;
+}
+
+.nav li a:hover {
+  background-color: #000291;
+  text-decoration: underline;
+}
+
+ul.days li {
+  height: 3vw;
+}
+
+.copy {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: #cce5ff;
+  text-align: center;
+  font-size: 0.9vw;
+}
+/* W3Schools*/
+
+* {
+  box-sizing: border-box;
+}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 780px;
+  position: relative;
+  margin: auto;
+  margin-top: 3vw;
+}
+
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with slight opacity */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Caption text */
+.text {
+  color: white;
+  text-shadow: -1.2px 0 black, 0 1.2px black, 1.2px 0 black, 0 -1.2px black;
+  font-size: 1.5vw;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/4 etc) */
+.numbertext {
+  color: #f2f2f2;
+  text-shadow: -1.2px 0 black, 0 1.2px black, 1.2px 0 black, 0 -1.2px black;
+  font-size: 0.995vw;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+  left: 90%;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  max-height: 20px;
+  min-height: 20px;
+  width: 20px;
+  margin: 0 2px;
+  background-color: #000291;
+  border-radius: 25%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active,
+.dot:hover {
+  background-color: grey;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+#gallery a {
+  color: white;
+}
+
+#gallery #whole-gallery img {
+  display: inline;
+  height: 20vw;
+}
+
+#whole-gallery .Pcard {
+  margin-left: 0.5vw;
+}
+
+#contact_us h2 {
+  font-size: 2.5vw;
+  color: white;
+  font-family: "Cabin", sans-serif;
+  text-align: center;
+  margin-top: 3.9vw;
+}
+
+#contact_us .emails {
+  list-style-type: none;
+  color: white;
+  font-size: 1.2vw;
+  text-align: center;
+  line-height: 2vw;
+  font-family: "Open Sans";
+}
+
+#contact_us .emails .link {
+  color: #b6c8da;
+  font-family: "Open Sans";
+}
+
+#contact_us .boosters li {
+  list-style-type: none;
+  color: white;
+  font-size: 1.2vw;
+  text-align: center;
+  line-height: 2vw;
+  font-family: "Open Sans";
+}
+
+#contact_us .boosters .link {
+  color: #b6c8da;
+  font-family: "Open Sans";
+}
+
+#contact_us .school_name {
+  font-size: 1.8vw;
+  color: white;
+  font-family: "Cabin", sans-serif;
+  margin-top: 1.9vw;
+}
+
+#contact_us .addresses {
+  text-align: center;
+}
+
+#contact_us .addresses p {
+  color: white;
+  font-size: 1.2vw;
+  line-height: 2vw;
+  font-family: "Open Sans";
+}
+
+.Ccard {
+  padding: 1vw;
+  max-width: 75vw;
+  position: relative;
+  left: 12%;
+  top: 1.8vw;
+  height: 13vw;
+  /*border-bottom: white solid 0.1vw;*/
+}
+
+.Ccard img {
+  max-height: 11vw;
+  max-width: 15vw;
+  position: relative;
+  left: 0vw;
+  border-style: solid;
+  border-color: #000291;
+  border-width: -1.5vw;
+}
+
+.Gcard {
+  padding: 1vw;
+  max-width: 75vw;
+  position: relative;
+  left: 12%;
+  top: -0.453vw;
+  height: 13vw;
+  /*border-top: white solid 0.1vw;
+  border-bottom: white solid 0.1vw;*/
+}
+
+.Gcard img {
+  max-height: 11vw;
+  max-width: 15vw;
+  position: relative;
+  left: 59.5vw;
+  border-style: solid;
+  border-color: #000291;
+  border-width: -1.5vw;
+}
+
+.Pcard {
+  padding: 1vw;
+  height: 20vw;
+  width: 23.6vw;
+  margin-left: 0.3vw;
+  display: inline-block;
+  position: relative;
+  top: -.5vw;
+}
+
+.Pcard img {
+  max-height: 9vw;
+  max-width: 15vw;
+  position: relative;
+  left: 3.5vw;
+  border-style: solid;
+  border-color: white;
+  border-width: -1.5vw;
+}
+
+.Pcard .glink {
+  color: #b6c8da;
+}
+
+#gallery h4 {
+  font-size: 0.95vw;
+  color: white;
+  text-align: center;
+  position: relative;
+  bottom: 1vw;
+  left: 1vw;
+  max-width: 20vw;
+}
+
+#gallery h5 {
+  font-size: 0.8vw;
+  color: white;
+  text-align: center;
+  position: relative;
+  bottom: 1vw;
+  left: 1vw;
+  max-width: 20vw;
+}
+
+#about .Ccard h4 {
+  font-size: 1.15vw;
+  color: white;
+  text-align: center;
+  position: relative;
+  bottom: 8.7vw;
+  left: -14vw;
+}
+
+#about .Ccard h5 {
+  font-size: 0.95vw;
+  color: white;
+  text-align: center;
+  width: 39vw;
+  position: relative;
+  bottom: 16.8vw;
+  right: -30vw;
+  line-height: 1.2vw;
+}
+
+#about .Gcard h4 {
+  font-size: 1.15vw;
+  color: white;
+  text-align: center;
+  position: relative;
+  bottom: 8.8vw;
+  right: -12.65vw;
+}
+
+#about .Gcard h5 {
+  font-size: 0.95vw;
+  color: white;
+  text-align: center;
+  width: 37vw;
+  position: relative;
+  bottom: 15.8vw;
+  left: 2.45vw;
+  line-height: 1.2vw;
+}
+
+#about .Zcard {
+  padding: 1vw;
+  max-width: 75vw;
+  position: relative;
+  top: -2.2vw;
+  left: 12%;
+  height: 13vw;
+ /* border-top: white solid 0.1vw;*/
+}
+
+.Zcard img {
+  max-height: 11vw;
+  max-width: 15vw;
+  position: relative;
+  left: 0vw;
+  border-style: solid;
+  border-color: #000291;
+  border-width: -1.5vw;
+}
+
+#about .Zcard h4 {
+  font-size: 1.15vw;
+  color: white;
+  text-align: center;
+  position: relative;
+  bottom: 8.7vw;
+  left: -14vw;
+}
+
+#about .Zcard h5 {
+  font-size: 0.95vw;
+  color: white;
+  text-align: center;
+ width: 39vw;
+  position: relative;
+  bottom: 15.2vw;
+  right: -30vw;
+  line-height: 1.2vw;
+}
+
+#about .do{
+  font-size: 2.5vw;
+  color: white;
+  font-family: "Cabin", sans-serif;
+  text-align: center;
+  margin-bottom: 2vw;
+  margin-top: 4vw;
+}
+
+#about .aboutfaculty{
+  font-size: 2.5vw;
+  color: white;
+  font-family: "Cabin", sans-serif;
+  text-align: center;
+  margin-bottom: 2vw;
+  margin-top: 4vw;
+}
+
+#about .what{
+  color: white;
+  font-size: 1.2vw;
+  text-align: center;
+  line-height: 2vw;
+  font-family: "Open Sans";
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
+
+#about .underscore{
+  color: white;
+  font-size: 1vw;
+  text-align: center;
+}
+
+#fundraising h6 {
+  color: white;
+  font-size: 1.2vw;
+  text-align: center;
+  line-height: 2vw;
+  font-family: "Open Sans";
+  margin-bottom: -2vw;
+}
+
+#fundraising .strawberry {
+  position: relative;
+  top: -10vw;
+}
+
+#fundraising img {
+  max-width: 20vw;
+  max-height: 20vw;
+  position: relative;
+  top: 5vw;
+  left: 7vw;
+  transform: rotate(-20deg);
+}
+
+#fundraising .company {
+  font-size: 2.5vw;
+  color: white;
+  font-family: "Cabin", sans-serif;
+  text-align: center;
+  margin-bottom: 0vw;
+}
+
+#upcoming_events h6 {
+  color: white;
+  font-size: 2vw;
+  text-align: center;
+  font-family: "Open Sans";
+  line-height: 5.5vw;
+  margin-bottom: 0.2vw;
+  margin-top: 1vw;
+  background-color: #000291;
+  font-size: 2vw;
+}
+
+#upcoming_events table {
+  border: 0.2vw solid #000291;
+  width: 100vw;
+  background-color: white;
+}
+
+#upcoming_events td {
+  padding: 1vw;
+  color: black;
+  text-align: center;
+  font-size: 1vw;
+  max-width: 1vw;
+}
+
+#upcoming_events th {
+  padding: 1vw;
+  text-align: center;
+  color: black;
+  font-size: 1.1vw;
+  border-bottom: 0.1vw solid #000291;
+}
