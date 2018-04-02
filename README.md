@@ -3,11 +3,11 @@ Chester County Bands Website
 
 Overview:
 Our website for the Chester County Bands is the one stop for information about High School and Jr. High Band and Color Guard. Our website has information by tab as needed:
-The home tab, for a slideshow of featured images;
-The upcoming events tab, for a calendar of important events (since our original functional calendar stopped working and wouldn’t resize due to other resize implementation conflictions we haven’t had time to fix). 
-The gallery tab, which has images from the band and color guard events as well as the bio of George Gregory, the photographer as he is seperate from the school staff. (We have his permission to use his images and give credit to his content.)
- The fundraising tab, for updating and allowing people to fund the band program and help pay for equipment and other necessities. 
-The contact us tab, for emailing staff and keeping in touch with those in charge (and later for filling out documents like health and contact information.
+The "Home" tab, for a slideshow of featured images;
+The "Upcoming Events" tab, for a calendar of important events (since our original functional calendar stopped working and wouldn’t resize due to other resize implementation conflictions we haven’t had time to fix). 
+The "Gallery" tab, which has images of the band and color guard events, as well as the bio of the photographer as he is seperate from the school staff. (We have his permission to use his images and give credit to his content.)
+ The "Fundraising" tab, for updating and allowing people to fund the band program to help pay for equipment and other necessities. 
+The "Contact Us" tab, for emailing and keeping in touch with staff (and later for filling out documents like health and contact information.
  
 Color:
 We have been consistent with both the color scheme the client has implied for us to use, the colors of the band, and the school. We are also very supportive of these color choices, for they also play key roles in the psychological aspect of the site.
