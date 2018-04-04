@@ -19,17 +19,12 @@ Font:
 The font used was similar to the font on the band's t-shirts. The font of the site is a sharp, confident font. We used a rounder font for the rest of the project, for reading purposes.
 
 Background:
-Referring to the use of our colors, the black background is used for both contrast and clarity, as well as it being a neutral color that matches nearly everything. So, no matter what colors are used within, white will always contrast it to the max and it won't look "messy" with "out of place" colors.
+Referring to the use of our colors, the black background is used for both contrast and clarity, as well as it being a neutral color that matches nearly everything. So, no matter what colors are used within, white will always contrast it to the max and it won't look messy with "out of place" colors.
 
 Design Psychology:
-The layout focuses on aspects of most wanted content and less words, first. Images are used before any other information is shown as we try to display both visually appealing and accurate content. We try to keep simple ideas so that it doesn’t get to boring or strenuous finding information the client or viewer is looking for. If they are still interested in the subject, they can read on and find out more, or continue to other features of the site with the nav bar. We keep the pages loaded with information, but not too much so that it looks gaudy. If information gets too clouded, we have varied separation and portions so it is legible and interesting. The client has specified a series of requirements such as:
-	-a calendar
-	-a logo
-	-gallery
-	-remind app
-	-documents
-	-the title
-But unfortunately, we are only as technically advanced as novice web design students can be and as efficient as we can be in one class period. This means we cannot have all of the features implemented that the client wants in this project yet. They are also very busy, so we also don’t have all of our information. Though, hopefully in the future, we can have all of the client’s wants and needs filled for when we get a domain and publisher for the website our client actually wants to use to represent the band.
+The layout focuses on aspects of most wanted content and less words closer to the top of the page. Images are used before any other information is shown as we try to display both visually appealing and accurate content. We try to keep simple ideas so that it doesn’t get to boring or strenuous finding information the client or viewer is looking for. If they are still interested in the subject, they can read on and find out more, or continue to other features of the site with the nav bar. We keep the pages loaded with information, but not so much that it appears gaudy. If information gets too clouded, we have varied separation and portions so it is legible and interesting.
+
+But unfortunately, we are only as technically advanced as novice web design students can be and as efficient as possible in one class period. This means we cannot have all of the features implemented that the client wants in this project yet. They are also very busy, so we have yet to gather all of the information that they wish to be presented on the site. Hopefully in the future we can have all of the client’s wants and needs fulfilled for when we get a domain and publisher for the website as our client wants to start using it represent the band.
   
 Credentials:
 Bloximages from Google
