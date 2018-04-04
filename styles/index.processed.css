@@ -323,8 +323,8 @@ ul.days li {
 }
 
 .Gcard img {
-  max-height: 15vw;
-  max-width: 19vw;
+  height: 12vw;
+  width: 12vw;
   position: relative;
   left: 59.5vw;
   border-style: solid;
