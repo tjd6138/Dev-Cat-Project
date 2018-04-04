@@ -13,11 +13,10 @@ Color:
 We have been consistent with both the color scheme the client has implied for us to use, the colors of the band, and the school. We are also very supportive of these color choices, for they also play key roles in the psychological aspect of the site.
  https://www.fatrabbitcreative.com/blog/psychology-of-black-and-white-and-what-they-mean-for-your-business Black represents professionalism, and also allows us to use white font. This keeps our page looking clean and our text legible.
 https://www.fatrabbitcreative.com/blog/psychology-of-black-and-white-and-what-they-mean-for-your-business White has a similar explanation as black. It supports high contrast viewing and less strain while reading. This color also symbolizes openness and peacefulness. Lastly, this color is one portion of the band and school colors. https://www.fatrabbitcreative.com/blog/psychology-of-the-color-blue-and-what-it-means-for-your-business Blue psychologically represents loyalty, which is why it is also a school color and choice of the client.
-https://www.colorpsychology.org/gray/ Grey was used to signify the difference between the linked emails and normal text, that is the only purpose it serves. Blue grey, in the copyright, was used to not sway as far from the color scheme as the linked emails, as to avoid the idea that the copyright is linked.
-(The only reason for using green is to find headers since this is technically excluded from the actual project.)
+https://www.colorpsychology.org/gray/ Grey was used to signify the difference between the linked emails and normal text, which is the only purpose it serves. The bluish grey in the copyright was used so as not sway as far from the original color scheme and to differentiate from the linked emails, to avoid the idea that the copyright is linked.
 
 Font:
-The font used was similar to the font on the band shirts. The font of the site is a sharp, confident font. We also used a rounder font for the rest of the project, for reading purposes.
+The font used was similar to the font on the band's t-shirts. The font of the site is a sharp, confident font. We used a rounder font for the rest of the project, for reading purposes.
 
 Background:
 Referring to the use of our colors, the black background is used for both contrast and clarity, as well as a neutral color that matches everything. So, no matter what colors are used within, white will always contrast it to the max and it won't look "messy" with "out of place" colors.
