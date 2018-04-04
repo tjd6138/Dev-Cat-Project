@@ -4,7 +4,7 @@ Chester County Bands Website
 Overview:
 Our website for the Chester County Bands is the one stop for information about High School and Jr. High Band and Color Guard. Our website has information by tab as needed:
 The "Home" tab, for a slideshow of featured images;
-The "Upcoming Events" tab, for a calendar of important events (since our original functional calendar stopped working and wouldn’t resize due to other resize implementation conflictions we haven’t had time to fix). 
+The "Upcoming Events" tab, for a calendar of important events for the band. 
 The "Gallery" tab, which has images of the band and color guard events, as well as the bio of the photographer as he is seperate from the school staff. (We have his permission to use his images and give credit to his content.)
  The "Fundraising" tab, for updating and allowing people to fund the band program to help pay for equipment and other necessities. 
 The "Contact Us" tab, for emailing and keeping in touch with staff (and later for filling out documents like health and contact information.
@@ -19,7 +19,7 @@ Font:
 The font used was similar to the font on the band's t-shirts. The font of the site is a sharp, confident font. We used a rounder font for the rest of the project, for reading purposes.
 
 Background:
-Referring to the use of our colors, the black background is used for both contrast and clarity, as well as a neutral color that matches everything. So, no matter what colors are used within, white will always contrast it to the max and it won't look "messy" with "out of place" colors.
+Referring to the use of our colors, the black background is used for both contrast and clarity, as well as it being a neutral color that matches nearly everything. So, no matter what colors are used within, white will always contrast it to the max and it won't look "messy" with "out of place" colors.
 
 Design Psychology:
 The layout focuses on aspects of most wanted content and less words, first. Images are used before any other information is shown as we try to display both visually appealing and accurate content. We try to keep simple ideas so that it doesn’t get to boring or strenuous finding information the client or viewer is looking for. If they are still interested in the subject, they can read on and find out more, or continue to other features of the site with the nav bar. We keep the pages loaded with information, but not too much so that it looks gaudy. If information gets too clouded, we have varied separation and portions so it is legible and interesting. The client has specified a series of requirements such as:
