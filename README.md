@@ -64,7 +64,9 @@ But unfortunately, we are only as technically advanced as novice web design stud
 Credits:
 
 As the creator of the concept of our website, Mia Osterman took charge of wireframing, information retrieval, creative management - deciding colors, fonts, layouts, and checking/finalizing page presentation. In addition to physical presentation, Mia managed literate presentation. Mia mainly contributed to the about page and gallery page layout code.
+
 Emily Mutter pushed her limits, being the team’s most valuable contribution to CSS and JavaScript code. Emily was our overall problem addressor, ensuring responsiveness after laying down most of the website's base code.
+
 The over all manager of our team, Tiffany Decker, kept everyone on task, confirming that every second of work was managed in a timely manner. One of Tiffany’s most important contributions was the navigation bar. As she was the main mean of communication within the group, Tiffany had often addressed problems to both of the other team members to refine our project. Tiffany tidied code both before and after she uploaded the site to GitHub.
 
 Credentials:
