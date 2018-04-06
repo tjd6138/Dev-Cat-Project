@@ -61,6 +61,7 @@ The layout focuses directly on aspects of most wanted content. Images are used b
 	
 But unfortunately, we are only as technically advanced as novice web design students can be and as efficient as we can be in one class period. This means we cannot have all of the features implemented that the client wants in this project yet. When addressing this issue to the client, she agreed that missing features can be added in as our team advances.
 
+
 Credits:
 
 As the creator of the concept of our website, Mia Osterman took charge of wireframing, information retrieval, creative management - deciding colors, fonts, layouts, and checking/finalizing page presentation. In addition to physical presentation, Mia managed literate presentation. Mia mainly contributed to the about page and gallery page layout code.
